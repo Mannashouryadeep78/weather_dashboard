@@ -77,7 +77,8 @@ Dark Mode
 -Practiced error boundary logic and user-friendly messaging
 
 #🌐 Live Demo
-📍 Coming Soon (deploy via Netlify, Vercel, or GitHub Pages)
+
+📍 https://67f5d83979e0210f63c41477--cozy-cactus-751264.netlify.app/
 
 #📦 Folder Structure
 ```bash
